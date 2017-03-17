@@ -110,13 +110,8 @@
 
 <!-- Fm From Aosip -->
   <project name="platform_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="aosip" />
-<!-- End -->
-
-<!-- SS fix from Nvdx11's git -->
-  <project name="platform_frameworks_base_packages_SystemUI_src_com_android_systemui_screenshot" path="frameworks/base/packages/SystemUI/src/com/systemui/screenshot" remote="nvdx11" />
-<!-- End -->
-
-
+<!-- End --> 
+  
 <!-- BEGIN LINEAGE-OS -->
   <project name="android_external_libncurses" path="external/libncurses" remote="laos" />
   <project name="android_external_libnfc-nci" path="external/libnfc-nci" remote="laos" />
@@ -578,5 +573,9 @@
   <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" revision="core-technologies.lnx.1.0.r5-rel"/>
   <project name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" revision="opensource-tools.lnx.1.0.r5-rel"/>
 <!-- END CODEAURORA -->
+  
+<!-- SS fix from Nvdx11's git -->
+  <project name="platform_frameworks_base_packages_SystemUI_src_com_android_systemui_screenshot" path="frameworks/base/packages/SystemUI/src/com/systemui/screenshot" remote="nvdx11" />
+<!-- End -->
 
 </manifest>
