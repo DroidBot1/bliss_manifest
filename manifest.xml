@@ -113,7 +113,7 @@
 <!-- End -->
 
 <!-- SS fix from Nvdx11's git -->
-  <project name="https://github.com/nvdx11/platform_frameworks_base_packages_SystemUI_src_com_android_systemui_screenshot" path="frameworks/base/packages/SystemUI/src/com/systemui/screenshot" remote="nvdx11" />
+  <project name="platform_frameworks_base_packages_SystemUI_src_com_android_systemui_screenshot" path="frameworks/base/packages/SystemUI/src/com/systemui/screenshot" remote="nvdx11" />
 <!-- End -->
 
 
