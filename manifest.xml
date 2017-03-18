@@ -574,8 +574,4 @@
   <project name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" revision="opensource-tools.lnx.1.0.r5-rel"/>
 <!-- END CODEAURORA -->
   
-<!-- SS fix from Nvdx11's git -->
-  <project name="platform_frameworks_base_packages_SystemUI_src_com_android_systemui_screenshot" path="frameworks/base/packages/SystemUI/src/com/systemui/screenshot" remote="nvdx11" />
-<!-- End -->
-
 </manifest>
