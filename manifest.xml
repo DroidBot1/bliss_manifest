@@ -19,9 +19,9 @@
           fetch="https://github.com/AOSiP"
           revision="refs/heads/n-mr1" />
 
-  <remote name="nvdx11"
-          fetch="https://github.com/nvdx11"
-          revision="refs/heads/n" />  
+  <remote name="Droidbot1"
+          fetch="https://github.com/Droidbot1"
+          revision="refs/heads/n7.1-caf" />  
   
   <remote name="BlissRoms-Devices"
           fetch="https://github.com/BlissRoms-Devices" />
@@ -67,7 +67,7 @@
   <project name="platform_external_zlib" path="external/zlib" remote="BlissRoms" />
   <project name="platform_frameworks_av" path="frameworks/av" remote="BlissRoms" />
   <project name="platform_frameworks_native" path="frameworks/native" remote="BlissRoms" />
-  <project name="platform_frameworks_base" path="frameworks/base" remote="BlissRoms" />
+  <project name="platform_frameworks_base" path="frameworks/base" remote="Droidbot1" />
   <project name="platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="BlissRoms" />
   <project name="platform_frameworks_support" path="frameworks/support" remote="BlissRoms" />
   <project name="platform_hardware_qcom_fm" path="hardware/qcom/fm" remote="aosip" />
